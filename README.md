@@ -13,3 +13,6 @@ what is your favorite animal( strikethrough your answer)
 ~~fish~~
 
 What is your favorite number? (in H3)
+
+<h3> my favourite number is 7 , lucky number 7 </h3>
+
