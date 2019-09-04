@@ -3,3 +3,6 @@
 * 42
 
 <b><i>Where do you live?</i></b>
+Hasselt
+
+what is your favorite animal( strikethrough your answer)
