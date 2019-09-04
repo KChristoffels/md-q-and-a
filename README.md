@@ -1,11 +1,19 @@
 # md-q-and-a
-What is the meaning of life? (in bold)
-**42**
+
+
+<b><i>What is the meaning of life?</b></i>
+* 42
+* have fun
+
+
 
 Where do you live? (italics)
 *Hasselt*
 
+Leuven
+
 what is your favorite animal( strikethrough your answer)
+
 
 ~~Dragon~~
 
@@ -22,3 +30,8 @@ What's your favorite food ( in an unordered list)
 * chicken
 * pasta
 * fries
+
+~~fish~~
+
+What is your favorite number? (in H3)
+
